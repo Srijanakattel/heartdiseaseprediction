@@ -1,3 +1,5 @@
 venv/
 heart copy.ipynb
 users.db
+*.csv
+__pycache__/
